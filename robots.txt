@@ -1,0 +1,10 @@
+User-agent:
+*
+
+User-agent: Yandex
+
+
+host: hamsterkombat-bot.github.io 
+
+
+Sitemap: https://hamsterkombat-bot.github.io/sitemap.xml
